@@ -11,7 +11,7 @@ A Squad é composta por oito integrantes, sendo:
 |--|--|--|
 |Anna Beatriz M. Vercesi|||
 |Fernanda Pilat|[@fernandapilat](https://github.com/fernandapilat)|Minha banda favorita é The Cranberries, gosto de pintar a unha de preto, sou apaixonada por administração e kaizen e conto fofoca utilizando dados 🖤🪴📈|
-|Izabelle Nunes|||
+|Izabelle Nunes|||[@beellnunes](https://github.com/beelnunes) Divido a casa com seis pets, nas horas vagas sou metida a aquarelista e estudo ao som da musiquinha triste do Naruto. É a melhor trilha sonora :)
 |Joannyta Reis|||
 |Karina Cunha|||
 |Luene Pizzi|||
